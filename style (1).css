@@ -1,0 +1,16 @@
+#colorbtn{
+    background-color: #CB435D;
+    color: white;
+}
+#colorbtn:hover{
+    background-color: white;
+    color: black;
+}
+.sd:hover{
+    background-color: black;
+}
+@media only screen and (max-width:990px) {
+    .side{
+        display: none;
+    }
+}
